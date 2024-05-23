@@ -46,7 +46,7 @@ To run tests in Bestoon simply use `python manage.py test`.
 
 If you want more verbosity you can use `-v` option with `0, 1, 2, or 3.`; e.g. `python manage.py test -v2`
 
-## More Clients
+### More ClientS
 
 The project contains two different clients (command line and an ionic app for android/iOS) but all the 3rd party clients are more than welcomed. Add yours below.
 
@@ -63,7 +63,7 @@ The project contains two different clients (command line and an ionic app for an
 
 
 
-## TODO
+### TODO
 - [x] a restful login service. user will give user pass and will get her token
 - [x] local storage for ionic app. will store token and will using it when calling anything
 - [x] create and submit the APK!
